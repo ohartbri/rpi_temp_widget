@@ -49,5 +49,5 @@ if __name__ == "__main__":
         plt.title("Raspberry Pi Temperature DAQ")
         plt.legend()
         
-        plt.show()
+        #plt.show()
         plt.pause(SLEEPTIME)
